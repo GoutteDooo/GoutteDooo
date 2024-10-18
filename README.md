@@ -15,7 +15,7 @@ Or, directly :
 | :--------------|:---:|:------:|
 | 🐦 Floppy Bird | https://gouttedooo.github.io/Floppy-Bird/ | ❌ |
 | 🍄 Le Quiz des dévs | https://gouttedooo.github.io/QuizDesDevs/ | ❌ |
-| 🔗 Base de réseau social | https://gouttedooo.github.io/Reseau_social_base | [readme.md](https://github.com/GoutteDooo/Reseau_social_base) |
+| 🔗 Base de réseau social | https://github.com/GoutteDooo/Reseau_social_base | [readme.md](https://github.com/GoutteDooo/Reseau_social_base) |
 | 🧑‍🍳 App de Cuisine | https://main--cookingappgoutte.netlify.app/ | ❌ |
 | 🎞️ App de Cinéma | https://cineappgoutte.netlify.app/ | ❌ |
 | 🚩 App de Classement de pays | https://countriesappgoutte.netlify.app/ | ❌ |
