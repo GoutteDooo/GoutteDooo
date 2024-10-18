@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Donovan ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+# 👋 Hi, I’m Donovan ![Alt Text](https://media.tenor.com/xPA2rCeWb7wAAAAM/baby-hello.gif)
 ---
 - 👀 I’m interested in learning web and games development
 - 🌱 I’m currently learning JavaScript, React & Redux
