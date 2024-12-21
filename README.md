@@ -5,10 +5,10 @@
 - 🌱 I’m currently learning ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black), ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
   & ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)
 
-- 🔭 I'm actually working on a main project of developing a social media
-  - 🗞️ And my 1st side project is an indie 2D video game (I won't say more for the moment 🤐 😄)
+- 🔭 I'm actually working on developing my skills in Front Web
+  - 🗞️ And on a side project of an adventure interactive website game. (Deadline : 1st February 25)
 - 📫 You can reach me at : goudal.donovan@live.fr
-- 👀 Take a look on my ➡️ [GitHub site](https://gouttedooo.github.io) ⬅️ _(mdp : bonjour)_ to see my CV and realized projects 🙂
+- 👀 Take a look at ➡️ [GitHub site](https://gouttedooo.github.io) ⬅️ _(mdp : bonjour)_ to see my CV and realized projects 🙂
 
 Or, directly :
 | Name of project | URL | README |
