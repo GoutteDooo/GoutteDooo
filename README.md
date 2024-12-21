@@ -13,13 +13,15 @@
 Or, directly :
 | Name of project | URL | README |
 | :--------------|:---:|:------:|
+| 🧑‍🍳 App de Cuisine (React) | https://main--cookingappgoutte.netlify.app/ | ❌ |
+| 🎞️ App de Cinéma (React) | https://cineappgoutte.netlify.app/ | ❌ |
+| 🚩 App de Classement de pays (React) | https://countriesappgoutte.netlify.app/ | ❌ |
+| ⛰️ Site vitrine La Montagne | https://gouttedooo.github.io/Projet_sass_Montagne | ❌ |
+| 👨‍🍳 Site vitrine "Le Resto" | https://gouttedooo.github.io/sass_Resto/ | ❌ |
+| 🤵 Site vitrine "Hôtel de Luxe" | https://gouttedooo.github.io/projet_hotel_sass/ | ❌ |
+| 🔗 Base de réseau social | https://github.com/GoutteDooo/Reseau_social_base | [readme.md](https://github.com/GoutteDooo/Reseau_social_base) |
 | 🐦 Floppy Bird | https://gouttedooo.github.io/Floppy-Bird/ | ❌ |
 | 🍄 Le Quiz des dévs | https://gouttedooo.github.io/QuizDesDevs/ | ❌ |
-| 🔗 Base de réseau social | https://github.com/GoutteDooo/Reseau_social_base | [readme.md](https://github.com/GoutteDooo/Reseau_social_base) |
-| 🧑‍🍳 App de Cuisine | https://main--cookingappgoutte.netlify.app/ | ❌ |
-| 🎞️ App de Cinéma | https://cineappgoutte.netlify.app/ | ❌ |
-| 🚩 App de Classement de pays | https://countriesappgoutte.netlify.app/ | ❌ |
-| ⛰️ Site vitrine La Montagne| https://sass-montagne.netlify.app/ | ❌ |
 
 <!---
 GoutteDooo/GoutteDooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
