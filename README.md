@@ -23,6 +23,8 @@ Or, directly :
 | 🐦 Floppy Bird | https://gouttedooo.github.io/Floppy-Bird/ | ❌ |
 | 🍄 Le Quiz des dévs | https://gouttedooo.github.io/QuizDesDevs/ | ❌ |
 
+![image](https://github.com/user-attachments/assets/cbcf5cdc-1e20-463c-a856-31e18a6ebe59)
+
 <!---
 GoutteDooo/GoutteDooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
