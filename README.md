@@ -13,7 +13,7 @@
 Or, directly :
 | Name of project | URL | README |
 | :--------------|:---:|:------:|
-| 🧑‍🍳 App de Cuisine (React) | https://main--cookingappgoutte.netlify.app/ | ❌ |
+| 🧑‍🍳 App de Cuisine (React) | https://intellicook.netlify.app/ | ❌ |
 | 🎞️ App de Cinéma (React) | https://cineappgoutte.netlify.app/ | ❌ |
 | 🚩 App de Classement de pays (React) | https://countriesappgoutte.netlify.app/ | ❌ |
 | ⛰️ Site vitrine La Montagne | https://gouttedooo.github.io/Projet_sass_Montagne | ❌ |
