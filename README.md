@@ -3,8 +3,10 @@
 ---
 
 - 🌱 I’m currently learning ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) & ![Django](https://img.shields.io/badge/Django-094E20?style=for-the-badge&logo=django&logoColor=white)
-- 🔭 I'm actually working on a video game on PICO-8
-  - 🗞️ And I have some skills in web development, especially in ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- 🔭 I'm actually working on a Full-Stack Website Development with 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) & ![Django](https://img.shields.io/badge/Django-094E20?style=for-the-badge&logo=django&logoColor=white)
+  - 🗞️ In my free time, I'm using ![PICO-8](https://img.shields.io/badge/PICO--8-ff0044?style=for-the-badge&logoColor=white) for creating a 2D video game 😉🤫 (using 
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white))
 - 📫 You can reach me at : goudal.donovan@live.fr
 - 👀 Take a look at ➡️ [GitHub site](https://gouttedooo.github.io) ⬅️ _(mdp : bonjour)_ to see my CV and realized projects 🙂
 
