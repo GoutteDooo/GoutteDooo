@@ -2,7 +2,7 @@
 
 ---
 
-- 🌱 I’m currently learning ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) & ![Django](https://img.shields.io/badge/Django-094E20?style=for-the-badge&logo=django&logoColor=white)
+- 🌱 I’m currently learning ![Django](https://img.shields.io/badge/Django-094E20?style=for-the-badge&logo=django&logoColor=white)
 - 🔭 I'm actually working on a Full-Stack Website Development with 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) & ![Django](https://img.shields.io/badge/Django-094E20?style=for-the-badge&logo=django&logoColor=white)
   - 🗞️ In my free time, I'm using ![PICO-8](https://img.shields.io/badge/PICO--8-ff0044?style=for-the-badge&logoColor=white) for creating a 2D video game 😉🤫 (using 
@@ -43,7 +43,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## CodeWars
-![image](https://github.com/user-attachments/assets/cbcf5cdc-1e20-463c-a856-31e18a6ebe59)
+![image](https://www.codewars.com/users/GoutteDooo/badges/large)
 
 <!---
 GoutteDooo/GoutteDooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
