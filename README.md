@@ -2,13 +2,13 @@
 
 ---
 
-- 🌱 I’m currently learning ![Django](https://img.shields.io/badge/Django-094E20?style=for-the-badge&logo=django&logoColor=white)
-- 🔭 I'm actually working on a Full-Stack Website Development with 
+- 🌱 I’m currently learning : ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) && ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+- 🔭 I'm actually developing a Full-Stack Website e-commerce with 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) & ![Django](https://img.shields.io/badge/Django-094E20?style=for-the-badge&logo=django&logoColor=white)
-  - 🗞️ In my free time, I'm using ![PICO-8](https://img.shields.io/badge/PICO--8-ff0044?style=for-the-badge&logoColor=white) for creating a 2D video game 😉🤫 (using 
+  - 🗞️ In my free time, I'm using ![PICO-8](https://img.shields.io/badge/PICO--8-ff0044?style=for-the-badge&logoColor=white) for creating a 2D video game 😉 (using 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white))
-- 📫 You can reach me at : goudal.donovan@live.fr
-- 👀 Take a look at ➡️ [GitHub site](https://gouttedooo.github.io) ⬅️ _(mdp : bonjour)_ to see my CV and realized projects 🙂
+  - If you want to play the demo, here is the link ➡️ [Lulu's Quest](https://gouttedooo.github.io/Lulu-s-Quest-PICO/lulus_quest_demo.p8.html) ⬅️ ![Lulu](https://img.shields.io/badge/Lulu's%20Quest-FF0000?style=for-the-badge&logo=ghost&logoColor=white)
+- 👀 Take a look at my ➡️ [GitHub profile Site](https://gouttedooo.github.io) ⬅️ _(mdp : bonjour)_ to see my CV and realized projects 🙂
 
 ## Some projects I realized (solo or team) :
 | Name of project | URL | README |
@@ -36,7 +36,9 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
