@@ -8,7 +8,6 @@
   - 🗞️ In my free time, I'm using ![PICO-8](https://img.shields.io/badge/PICO--8-ff0044?style=for-the-badge&logoColor=white) for creating a 2D video game 😉 (using 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white))
   - If you want to play the demo, here is the link ➡️ [Lulu's Quest](https://gouttedooo.github.io/Lulu-s-Quest-PICO/lulus_quest_demo.p8.html) ⬅️ ![Lulu](https://img.shields.io/badge/Lulu's%20Quest-FF0000?style=for-the-badge&logo=ghost&logoColor=white)
-- 👀 Take a look at my ➡️ [GitHub profile Site](https://gouttedooo.github.io) ⬅️ _(mdp : bonjour)_ to see my CV and realized projects 🙂
 
 ## Some projects I realized (solo or team) :
 | Name of project | URL | README |
