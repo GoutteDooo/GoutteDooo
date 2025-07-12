@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning : ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) && ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 - 🔭 I'm actually developing a Full-Stack Website e-commerce with 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) & ![Django](https://img.shields.io/badge/Django-094E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) && ![Django](https://img.shields.io/badge/Django-094E20?style=for-the-badge&logo=django&logoColor=white)
   - 🗞️ In my free time, I'm using ![PICO-8](https://img.shields.io/badge/PICO--8-ff0044?style=for-the-badge&logoColor=white) for creating a 2D video game 😉 (using 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white))
   - If you want to play the demo, here is the link ➡️ [Lulu's Quest](https://gouttedooo.github.io/Lulu-s-Quest-PICO/lulus_quest.html) ⬅️ ![Lulu](https://img.shields.io/badge/Lulu's%20Quest-FF0000?style=for-the-badge&logo=ghost&logoColor=white)
