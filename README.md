@@ -7,7 +7,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) && ![Django](https://img.shields.io/badge/Django-094E20?style=for-the-badge&logo=django&logoColor=white)
   - 🗞️ In my free time, I'm using ![PICO-8](https://img.shields.io/badge/PICO--8-ff0044?style=for-the-badge&logoColor=white) for creating a 2D video game 😉 (using 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white))
-  - If you want to play the demo, here is the link ➡️ [Lulu's Quest](https://gouttedooo.github.io/Lulu-s-Quest-PICO/lulus_quest.html) ⬅️ ![Lulu](https://img.shields.io/badge/Lulu's%20Quest-FF0000?style=for-the-badge&logo=ghost&logoColor=white)
+  - If you want to play the demo, here is the link ➡️ [Lulu's Quest](https://gouttedooo.github.io/Lulu-s-Quest-PICO) ⬅️ ![Lulu](https://img.shields.io/badge/Lulu's%20Quest-FF0000?style=for-the-badge&logo=ghost&logoColor=white)
 
 ## Some projects I realized (solo or team) :
 | Name of project | URL | README |
