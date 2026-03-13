@@ -1,13 +1,11 @@
-# 👋 Hi, I’m Donovan ![Alt Text](https://media.tenor.com/xPA2rCeWb7wAAAAM/baby-hello.gif)
+# 👋 Hi, I’m Donovan, ![.NET](https://img.shields.io/badge/--purple%20?style=for-the-badge&logo=.net&logoSize=auto) Developer
 
 ---
 
-- 🌱 I’m currently learning : ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) && ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-- 🔭 I'm actually developing a Full-Stack Website e-commerce with 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) && ![Django](https://img.shields.io/badge/Django-094E20?style=for-the-badge&logo=django&logoColor=white)
-  - 🗞️ In my free time, I'm using ![PICO-8](https://img.shields.io/badge/PICO--8-ff0044?style=for-the-badge&logoColor=white) for creating a 2D video game 😉 (using 
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white))
-  - If you want to play the demo, here is the link ➡️ [Lulu's Quest](https://gouttedo.itch.io/lulus-quest) ⬅️ ![Lulu](https://img.shields.io/badge/Lulu's%20Quest-FF0000?style=for-the-badge&logo=ghost&logoColor=white)
+- 🌱 I’m currently learning __"How to use AI to boost my Workflow"__
+- 🔭 I'm currently developing a Full-Stack Project 🤫
+- 🗞️ In my free time, I'm using ![UNITY](https://img.shields.io/badge/UNITY-grey?logo=unity) to create a 2D video game
+- Demo of my game on itch.io ➡️ [The Last Conductor](https://gouttedo.itch.io/thelastconductor)
 
 ## Some projects I realized (solo or team) :
 | Name of project | URL | README |
