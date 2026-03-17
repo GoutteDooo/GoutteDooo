@@ -1,11 +1,10 @@
 # 👋 Hi, I’m Donovan, ![.NET](https://img.shields.io/badge/--purple%20?style=for-the-badge&logo=.net&logoSize=auto) Developer
 
----
 
 - 🌱 I’m currently learning __"How to use AI to boost my Workflow"__
 - 🔭 I'm currently developing a Full-Stack Project 🤫
 - 🗞️ In my free time, I'm using ![UNITY](https://img.shields.io/badge/UNITY-grey?logo=unity) to create a 2D video game
-- Demo of my game on itch.io ➡️ [The Last Conductor](https://gouttedo.itch.io/thelastconductor)
+- 🕹️ Demo of my game on itch.io ➡️ [The Last Conductor](https://gouttedo.itch.io/thelastconductor)
 
 ## Main Projects I created :
 | Project Repository | Stack |
