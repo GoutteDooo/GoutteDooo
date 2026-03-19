@@ -3,8 +3,7 @@
 
 - 🌱 I’m currently learning __"How to use AI to boost my Workflow"__
 - 🔭 I'm currently developing a Full-Stack Project 🤫
-- 🗞️ In my free time, I'm using ![UNITY](https://img.shields.io/badge/UNITY-grey?logo=unity) to create a 2D video game
-- 🕹️ Demo of my game on itch.io ➡️ [The Last Conductor](https://gouttedo.itch.io/thelastconductor)
+- 🗞️ In my free time, I'm using ![UNITY](https://img.shields.io/badge/UNITY-grey?logo=unity) to create a 2D video game (🕹️ demo [here](https://gouttedo.itch.io/thelastconductor))
 
 ## Main Projects I created :
 | Project Repository | Stack |
