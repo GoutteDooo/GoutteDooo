@@ -6,8 +6,8 @@
 - 🗞️ In my free time, I'm using ![UNITY](https://img.shields.io/badge/UNITY-grey?logo=unity) to create a 2D video game (🕹️ demo [here](https://gouttedo.itch.io/thelastconductor))
 
 ## Main Projects I created :
-| Project Repository | Stack |
-| :----------------: | :---: |
+| Project Repository | Main Stack |
+| :----------------: | :--------: |
 | 🧑‍🍳 [Restaurant API](https://github.com/GoutteDooo/RestauSimplon) | ![.NETC#](https://img.shields.io/badge/C%23-darkgreen?style=for-the-badge&logo=.NET) |
 | 📖 [Library API](https://github.com/GoutteDooo/API-Bibliotheque) | ![.NETC#](https://img.shields.io/badge/C%23-darkgreen?style=for-the-badge&logo=.NET) |
 | 🖥️ [Console App](https://github.com/GoutteDooo/DuelDeGuerrier) | ![.NETC#](https://img.shields.io/badge/C%23-darkgreen?style=for-the-badge&logo=.NET) |
